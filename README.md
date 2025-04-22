@@ -26,4 +26,4 @@ This project explores how movies and TV shows are connected through shared direc
 Make sure you have Python 3 installed. From your project folder, run:
 
 ```bash
-python main.py
+python movie.py
